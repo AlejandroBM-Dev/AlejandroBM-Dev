@@ -30,4 +30,4 @@
 
 > _"Construyo experiencias móviles limpias, robustas y con aroma a café ☕."_
 
-🔗 Más info en mi [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/alejandro-bautista-mancilla-325a1963/)
+🔗 Más info en mi [LinkedIn](https://www.linkedin.com/in/alejandro-bautista-mancilla-325a1963/)
