@@ -23,6 +23,11 @@
 
 ---
 
+## 📊 Lenguajes más usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBM-Dev&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 > _"Construyo experiencias móviles limpias, robustas y con aroma a café ☕."_
 
-🔗 Más info en mi [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/alejandro-bautista-mancilla-325a1963/)) 
+🔗 Más info en mi [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/alejandro-bautista-mancilla-325a1963/)
